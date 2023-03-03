@@ -13,6 +13,8 @@ public static void main(String[] args) {
 	else {
 		System.out.println("invalid");
 	}
+	System.out.println("selenium");
+	System.out.println("python");
 	
 }
 	
